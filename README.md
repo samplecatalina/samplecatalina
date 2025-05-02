@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am samplecatalina. Thanks for stopping by ;)</p>
+<h4 align="left">I am samplecatalina. 趣味でsoftware engineerをやっているものだ</h4>
 
 ###
 
