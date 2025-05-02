@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I am samplecatalina. 趣味でsoftware engineerをやっているものだ</h4>
+<h4 align="left">I am samplecatalina. 趣味でsoftware engineerをやっているものだ。</h4>
 
 ###
 
